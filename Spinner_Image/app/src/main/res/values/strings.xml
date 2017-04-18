@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Spinner_Image</string>
+
+    <string name="option_select">Choose any one:</string>
+
+    <string-array name="object_array">
+
+        <item>Shah Rukh Khan</item>
+
+        <item>Hrithik Roshan</item>
+
+        <item>Leonardo DiCaprio</item>
+
+        <item>Bryan Cranston</item>
+
+        <!--<item>Mia Khalifa</item>-->
+
+        <!--<item>Sunny Leone</item>-->
+
+        <!--<item>Jayden Jaymes</item>-->
+
+        <!--<item>Alexis Texas</item>-->
+
+
+    </string-array>
+
+    <integer-array name="object_image">
+
+        <item>@drawable/pic1</item>
+
+        <item>@drawable/pic2</item>
+
+        <item>@drawable/pic3</item>
+
+        <item>@drawable/pic4</item>
+
+
+    </integer-array>
+</resources>

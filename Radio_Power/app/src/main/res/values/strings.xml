@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">Radio_Power</string>
+
+<string-array name="radiobtn_image">
+    <item>@drawable/pic1</item>
+
+    <item>@drawable/pic2</item>
+
+    <item>@drawable/pic3</item>
+
+    <item>@drawable/pic4</item>
+
+</string-array>
+</resources>
